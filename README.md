@@ -1,4 +1,4 @@
-# Chatlist-using-LRU-Cache-Whatsapp
+# Whatsapp-Chatlist-using-LRU-Cache
      
      LRU (Least Latest Used) cache contains the most recently used page numbers and discards the oldest or longest used page numbers or entries.
 Will be using Linked List
